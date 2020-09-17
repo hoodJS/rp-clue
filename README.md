@@ -12,6 +12,7 @@ then it will send u to this page
 just clear it and paste the script in there, then press ``ctrl`` + ``s``.
 close it then go to reading plus
 
+``script file`` => https://hoodjs.github.io/rp-clue/index.user.js
 ----
 
 # features
